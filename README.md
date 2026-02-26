@@ -1,34 +1,27 @@
-# 👋 Hi, I’m Deckard
+# Hey, I'm Deckard 👋                                                                                                                                                                 
+   
+**Software Engineer** building clean, modern SaaS products. I love creating tools that feel fast, thoughtful, and genuinely enjoyable to use.                                         
+                                                                  
+## 🚀 What I'm Working On                    
 
-**Software Engineer** building clean, modern SaaS experiences. I love creating tools that feel fast, thoughtful, and enjoyable to use.
+- **InspoSnaps** — My first SaaS: Save, organise, and share visual inspiration from anywhere on the web. Built with a companion browser extension for seamless capture.
+- **??? (coming soon)** — Another SaaS in stealth. More details dropping soon.
 
-## 🚀 What I’m Working On
-- A web + browser extension app for capturing design inspiration and visual snippets
-- Personal finance management app to track spending habits and improve budgeting 
-- Exploring modern frontend workflows & improving developer experience
+## 🧰 Tech I Reach For
 
-## 🧰 Core Tools I Use
-
-### **Core Stack**
-- **TypeScript, React, Next.js**
-- **Vite, Tailwind, shadcn/ui**
-- **TanStack Query / TanStack Start**
-
-### **Backend & Data**
-- **PostgreSQL, Supabase**
-- **Drizzle**
-
-### **Dev Workflow**
-- **Windsurf IDE**
-- **pnpm**
-- **Docker**
-
-### **AI Tools**
-- **ChatGPT, Claude Code**
+| Layer | Tools |
+|---|---|
+| **Framework** | TanStack Start, Next.js, React, TypeScript |
+| **Styling** | Tailwind CSS, shadcn/ui |
+| **Data** | PostgreSQL, Drizzle, TanStack Query |
+| **Infra** | Supabase, Docker, Vite |
+| **Editor** | Warp + Claude Code |
 
 ## 🎮 Outside of Code
-Gaming, learning new tech, and constantly refining how I build things.
 
-## 📬 Reach Me
-- **Email:** deckardger@gmail.com 
-- **LinkedIn:** [_linkedin.com_](https://www.linkedin.com/in/deckard-gerritsen-90a6b9258/)
+Massive gamer, always learning new tech, and constantly refining how I build things.
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-deckardger%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:deckardger@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deckard_Gerritsen-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deckard-gerritsen-90a6b9258/)
