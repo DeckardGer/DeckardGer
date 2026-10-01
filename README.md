@@ -4,8 +4,8 @@
 
 ## 🚀 What I've Built
 
-- **[InspoSnaps](https://insposnaps.com)** — Save, organise, and share visual inspiration from anywhere on the web. Built with a companion browser extension for seamless capture.
-- **[Stashr](https://stashr.me)** — Bookmark everything. A browser extension captures the posts you save on X, Reddit, TikTok, and Instagram; Stashr keeps the whole post, tags it with AI, and makes it searchable in plain English. Comes with an MCP server so your agents can search your library too.
+- **[InspoSnaps](https://insposnaps.com)** · _Launched February 2026_ — Save, organise, and share visual inspiration from anywhere on the web. Built with a companion browser extension for seamless capture.
+- **[Stashr](https://stashr.me)** · _Launched July 2026_ — Bookmark everything. A browser extension captures the posts you save on X, Reddit, TikTok, and Instagram; Stashr keeps the whole post, tags it with AI, and makes it searchable in plain English. Comes with an MCP server so your agents can search your library too.
 - **??? (coming soon)** — A native macOS app for screenshots and screen recordings, with a built-in editor. More details dropping soon.
 
 ## 🤖 All In on AI
